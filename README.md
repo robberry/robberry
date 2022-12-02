@@ -9,4 +9,4 @@ I'm Rob Berry, a creative developer of technology for engineers.  I work on soft
 
 ### Contact me 💬
 
-I can be found in a few places on the web. Reach me on Twitter [@robberry](https://twitter.com/robberry) or email me. [Linkedin](https://uk.linkedin.com/in/robberry) continues to be the place I document my career moves.
+I can be found in a few places on the web. Reach me on Twitter [@robberry](https://twitter.com/robberry) or visit [robberry.net](https://robberry.net). [Linkedin](https://uk.linkedin.com/in/robberry) continues to be the place I document my career moves.
