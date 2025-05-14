@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rob Berry, a creative developer of technology for engineers.  I work on software and systems which solve complex numerical and data problems, typically in the areas of flood risk or environmental management.  I particularly enjoy projects which require:
+Hi, I'm Rob Berry, a creative technologist in the environmental risk sector. My expertise in software, data and systems development helps tackle complex numerical and data challenges, empowering informed decision-making. I particularly enjoy projects which require:
 
 - advanced data (especially geospatial) analysis;
 - high-performance processing (CPU and GPU); 
