@@ -2,10 +2,9 @@
 
 Hi, I'm Rob Berry, a creative technologist in the environmental risk sector. My expertise in software, data and systems development helps tackle complex numerical and data challenges, empowering informed decision-making. I particularly enjoy projects which require:
 
-- advanced data (especially geospatial) analysis;
-- high-performance processing (CPU and GPU); 
-- process optimisation; and
-- system and architecture design.
+* Creating solutions that leverage advanced data analysis, with a focus on geospatial insights, utilising both commercial and open-source tools automated through Python and .Net
+* Implementing high-performance processing strategies across on-premises, cloud, and hybrid platforms to tackle demanding computational challenges
+* Enhancing process efficiencies and designing robust systems and architectures for projects
 
 ### Contact me 💬
 
